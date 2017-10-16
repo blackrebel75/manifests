@@ -17,11 +17,11 @@
            sync-j="4" />
 
 
-  <!-- cm12-amami repositories -->
+  <!-- CM12-AMAMI organization repositories -->
   <project path="build" name="cm12-amami/android_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-
+  <!-- common -->
   <project name="cm12-amami/android" path="android" />
   <project name="cm12-amami/android_bionic" path="bionic" groups="pdk" />
   <project name="cm12-amami/android_bootable_recovery" path="bootable/recovery" groups="pdk" />
@@ -66,10 +66,14 @@
   <project name="cm12-amami/android_platform_external_libopus" path="external/libopus" groups="pdk" />
   <project name="cm12-amami/android_system_core" path="system/core" groups="pdk" />
   <project name="cm12-amami/android_vendor_cm" path="vendor/cm" />
+  <!-- SONY and MSM8974 specific -->
+  <project name="cm12-amami/android_kernel_sony_msm8974" path="kernel/sony/msm8974" />
+  <project name="cm12-amami/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
 
   <!-- AOSP and LineageOS default references -->
   <include name="ref/aosp.xml" />
   <include name="ref/lineageos.xml" />
+  <include name="ref/sony-lineage.xml" />
 
   <!-- LineageOS branch cm-13.0 and cm-14.1 references -->
   <project name="LineageOS/android_external_freetype" path="external/freetype" groups="pdk" revision="cm-13.0" />
