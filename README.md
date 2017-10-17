@@ -1,12 +1,5 @@
 # LineageOS 12.1 (CM12.1)
-
-## How launch a cm-12.1 build:
-```Shell session
-make clean  
-repo sync  
-source build/envsetup.sh  
-brunch amami  
-```
+To get started with Android/LineageOS, you'll need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 ## How to initially set up your build tree:
 ```Shell session
@@ -17,6 +10,14 @@ cd local_manifests
 git checkout cm-12.1 
 cd ../.. 
 repo sync
+```
+
+## How launch a cm-12.1 build:
+```Shell session
+make clean  
+repo sync  
+source build/envsetup.sh  
+brunch amami  
 ```
 
 ## How to contribute
