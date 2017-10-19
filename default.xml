@@ -37,6 +37,7 @@
   <project name="cm12-amami/android_external_skia" path="external/skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project name="cm12-amami/android_external_sqlite" path="external/sqlite" groups="pdk" />
   <project name="cm12-amami/android_external_tremolo" path="external/tremolo" groups="pdk" />
+  <project name="cm12-amami/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" />
   <project name="cm12-amami/android_frameworks_av" path="frameworks/av" groups="pdk" />
   <project name="cm12-amami/android_frameworks_base" path="frameworks/base" />
   <project name="cm12-amami/android_frameworks_ex" path="frameworks/ex" />
