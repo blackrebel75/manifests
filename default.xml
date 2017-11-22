@@ -31,6 +31,7 @@
   <project name="cm12-amami/android_external_libnfc-nci" path="external/libnfc-nci" groups="pdk" />
   <project name="cm12-amami/android_external_libvpx" path="external/libvpx" />
   <project name="cm12-amami/android_external_libxml2" path="external/libxml2" groups="pdk-cw-fs" />
+  <project name="cm12-amami/android_external_openssl" path="external/openssl" />
   <project name="cm12-amami/android_external_pdfium" path="external/pdfium" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_sfntly" path="external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
   <project name="cm12-amami/android_external_sonivox" path="external/sonivox" groups="pdk" />

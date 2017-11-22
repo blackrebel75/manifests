@@ -84,7 +84,6 @@
   <project path="external/ntfs-3g" name="LineageOS/android_external_ntfs-3g" />
   <project path="external/okhttp" name="LineageOS/android_external_okhttp" groups="pdk-cw-fw" />
   <project path="external/openssh" name="LineageOS/android_external_openssh" />
-  <project path="external/openssl" name="LineageOS/android_external_openssl" />
   <project path="external/pciutils" name="LineageOS/android_external_pciutils" />
   <project path="external/pcre" name="LineageOS/android_external_pcre" groups="pdk-cw-fs" />
   <project path="external/pigz" name="LineageOS/android_external_pigz" />
