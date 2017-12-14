@@ -67,6 +67,7 @@
   <project name="cm12-amami/android_platform_external_libnl" path="external/libnl" groups="pdk" />
   <project name="cm12-amami/android_platform_external_libopus" path="external/libopus" groups="pdk" />
   <project name="cm12-amami/android_system_core" path="system/core" groups="pdk" />
+  <project name="cm12-amami/android_system_extras_su" path="system/extras/su" revision="cm-12.1" />
   <project name="cm12-amami/android_vendor_cm" path="vendor/cm" />
   <!-- SONY and MSM8974 specific -->
   <project name="cm12-amami/android_kernel_sony_msm8974" path="kernel/sony/msm8974" />

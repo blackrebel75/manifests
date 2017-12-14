@@ -222,7 +222,6 @@
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,darwin,arm" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,linux,arm" clone-depth="1" />
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" />
-  <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" />
   <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
