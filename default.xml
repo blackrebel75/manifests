@@ -72,9 +72,6 @@
   <!-- SONY and MSM8974 specific -->
   <project name="cm12-amami/android_kernel_sony_msm8974" path="kernel/sony/msm8974" />
   <project name="cm12-amami/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
-  <!-- Android System Webview -->
-  <project name="cm12-amami/android_external_chromium-webview-arm" 
-           path="external/chromium-webview-arm" clone-depth="1" revision="master" />
 
 
   <!-- AOSP and LineageOS default references -->
@@ -84,6 +81,7 @@
 
   <!-- LineageOS branch cm-13.0 and cm-14.1 references -->
   <project name="LineageOS/android_external_freetype" path="external/freetype" groups="pdk" revision="cm-13.0" />
+  <project name="LineageOS/android_external_chromium-webview" path="external/chromium-webview" clone-depth="1" revision="cm-14.1" />
 
   <!-- AOSP android-6.0.1_r81 references -->
   <project name="platform/external/jhead" path="external/jhead" remote="aosp" revision="refs/tags/android-6.0.1_r81"/>
