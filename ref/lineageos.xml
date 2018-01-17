@@ -14,7 +14,6 @@
   <project path="device/generic/mips" name="LineageOS/android_device_generic_mips" groups="pdk" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device" />
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" />
-  <project path="external/aac" name="LineageOS/android_external_aac" groups="pdk" />
   <project path="external/android-mock" name="LineageOS/android_external_android-mock" />
   <project path="external/android-visualizer" name="LineageOS/android_external_android-visualizer" />
   <project path="external/android/support-prebuilt" name="LineageOS/external_android_support-prebuilt" revision="master" />
@@ -223,7 +222,6 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,linux,arm" clone-depth="1" />
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" />
-  <project path="system/media" name="LineageOS/android_system_media" groups="pdk" />
   <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
