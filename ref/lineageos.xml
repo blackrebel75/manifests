@@ -135,7 +135,6 @@
   <project path="frameworks/wilhelm" name="LineageOS/android_frameworks_wilhelm" />
   <project path="hardware/akm" name="LineageOS/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="LineageOS/android_hardware_cm" />
   <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" />
   <project path="hardware/intel/common/libmix" name="LineageOS/android_hardware_intel_common_libmix" groups="intel" />
