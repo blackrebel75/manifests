@@ -155,7 +155,6 @@
   <project path="hardware/ti/omap4xxx" name="LineageOS/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" />
-  <project path="libcore" name="LineageOS/android_libcore" />
   <project path="libnativehelper" name="LineageOS/android_libnativehelper" groups="pdk-java" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
   <project path="packages/apps/BasicSmsReceiver" name="LineageOS/android_packages_apps_BasicSmsReceiver" />
