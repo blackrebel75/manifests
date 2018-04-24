@@ -6,7 +6,6 @@
   <project path="cts" name="LineageOS/android_cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="LineageOS/android_dalvik" groups="pdk-cw-fs" />
   <project path="development" name="LineageOS/android_development" groups="pdk-cw-fs" />
-  <project path="device/common" name="LineageOS/android_device_common" groups="pdk-cw-fs" />
   <project path="device/generic/arm64" name="LineageOS/android_device_generic_arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="LineageOS/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" groups="pdk" />
@@ -169,9 +168,7 @@
   <project path="packages/apps/CMWallpapers" name="LineageOS/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="LineageOS/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" />
-  <project path="packages/apps/Dialer" name="LineageOS/android_packages_apps_Dialer" />
   <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" />
-  <project path="packages/apps/Email" name="LineageOS/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="LineageOS/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="LineageOS/android_packages_apps_HTMLViewer" />

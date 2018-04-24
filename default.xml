@@ -25,6 +25,7 @@
   <project name="cm12-amami/android" path="android" />
   <project name="cm12-amami/android_bionic" path="bionic" groups="pdk" />
   <project name="cm12-amami/android_bootable_recovery" path="bootable/recovery" groups="pdk" />
+  <project name="cm12-amami/android_device_common" path="device/common" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_aac" path="external/aac" groups="pdk" />
   <project name="cm12-amami/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" groups="pdk" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
@@ -35,9 +36,10 @@
   <project name="cm12-amami/android_external_openssl" path="external/openssl" />
   <project name="cm12-amami/android_external_pdfium" path="external/pdfium" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_sfntly" path="external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
-  <project name="cm12-amami/android_external_sonivox" path="external/sonivox" groups="pdk" />
   <project name="cm12-amami/android_external_skia" path="external/skia" groups="pdk-cw-fs,qcom_msm8x26" />
+  <project name="cm12-amami/android_external_sonivox" path="external/sonivox" groups="pdk" />
   <project name="cm12-amami/android_external_sqlite" path="external/sqlite" groups="pdk" />
+  <project name="cm12-amami/android_external_svox" path="external/svox" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_tremolo" path="external/tremolo" groups="pdk" />
   <project name="cm12-amami/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" />
   <project name="cm12-amami/android_frameworks_av" path="frameworks/av" groups="pdk" />
@@ -56,6 +58,8 @@
   <project name="cm12-amami/android_libcore" path="libcore" />
   <project name="cm12-amami/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" />
   <project name="cm12-amami/android_packages_apps_ContactsCommon" path="packages/apps/ContactsCommon" />
+  <project name="cm12-amami/android_packages_apps_Dialer" path="packages/apps/Dialer" />
+  <project name="cm12-amami/android_packages_apps_Email" path="packages/apps/Email" />
   <project name="cm12-amami/android_packages_apps_LockClock" path="packages/apps/LockClock" />
   <project name="cm12-amami/android_packages_apps_Nfc" path="packages/apps/Nfc" />
   <project name="cm12-amami/android_packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" />
