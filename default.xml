@@ -31,6 +31,7 @@
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />
   <project name="cm12-amami/android_external_libnfc-nci" path="external/libnfc-nci" groups="pdk" />
+  <project name="cm12-amami/android_external_libvorbis" path="external/libvorbis" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_libvpx" path="external/libvpx" />
   <project name="cm12-amami/android_external_libxml2" path="external/libxml2" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_openssl" path="external/openssl" />
@@ -48,6 +49,7 @@
   <project name="cm12-amami/android_frameworks_minikin" path="frameworks/minikin" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_frameworks_native" path="frameworks/native" groups="pdk" />
   <project name="cm12-amami/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" groups="pdk" />
+  <project name="cm12-amami/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk" />
   <project name="cm12-amami/android_hardware_libhardware" path="hardware/libhardware" groups="pdk" />
   <project name="cm12-amami/android_hardware_qcom_audio" path="hardware/qcom/audio/default" groups="qcom,qcom_audio" />
   <project name="cm12-amami/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" groups="qcom,qcom_audio" revision="cm-12.1-caf-8974" />
@@ -68,6 +70,8 @@
   <project name="cm12-amami/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" />
   <project name="cm12-amami/android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" />
   <project name="cm12-amami/android_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" />
+  <project name="cm12-amami/android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" />
+  <project name="cm12-amami/android_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" />
   <project name="cm12-amami/android_packages_services_Telephony" path="packages/services/Telephony" />
   <project name="cm12-amami/android_platform_external_giflib" path="external/giflib" groups="pdk-cw-fs,qcom_msm8x26" />  
   <project name="cm12-amami/android_platform_external_libnl" path="external/libnl" groups="pdk" />
