@@ -90,6 +90,7 @@
   <include name="ref/aosp.xml" />
   <include name="ref/lineageos.xml" />
   <include name="ref/sony-lineage.xml" />
+  <include name="ref/webview.xml" />
 
   <!-- LineageOS references from higher branches -->
   <project name="LineageOS/android_external_freetype" path="external/freetype" groups="pdk" revision="cm-13.0" />

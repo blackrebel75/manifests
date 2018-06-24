@@ -128,7 +128,6 @@
   <project path="frameworks/rs" name="LineageOS/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="LineageOS/android_frameworks_support" />
   <project path="frameworks/volley" name="LineageOS/android_frameworks_volley" />
-  <project path="frameworks/webview" name="LineageOS/android_frameworks_webview" />
   <project path="frameworks/wilhelm" name="LineageOS/android_frameworks_wilhelm" />
   <project path="hardware/akm" name="LineageOS/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" />
