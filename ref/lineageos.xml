@@ -165,6 +165,7 @@
   <project path="packages/apps/CMFileManager" name="LineageOS/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMWallpapers" name="LineageOS/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="LineageOS/android_packages_apps_Contacts" />
+  <project path="packages/apps/ContactsCommon" name="LineageOS/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" />
   <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="LineageOS/android_packages_apps_Exchange" />
