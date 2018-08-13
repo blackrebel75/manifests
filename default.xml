@@ -29,6 +29,7 @@
   <project name="cm12-amami/android_external_aac" path="external/aac" groups="pdk" />
   <project name="cm12-amami/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" groups="pdk" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
+  <project name="cm12-amami/android_external_e2fsprogs" path="external/e2fsprogs" groups="pdk" />
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />
   <project name="cm12-amami/android_external_libnfc-nci" path="external/libnfc-nci" groups="pdk" />
   <project name="cm12-amami/android_external_libvorbis" path="external/libvorbis" groups="pdk-cw-fs" />
@@ -79,6 +80,7 @@
   <project name="cm12-amami/android_system_core" path="system/core" groups="pdk" />
   <project name="cm12-amami/android_system_extras_su" path="system/extras/su" />
   <project name="cm12-amami/android_system_media" path="system/media" groups="pdk" />
+  <project name="cm12-amami/android_system_vold" path="system/vold" groups="pdk" />
   <project name="cm12-amami/android_vendor_cm" path="vendor/cm" />
   <!-- SONY and MSM8974 specific -->
   <project name="cm12-amami/android_kernel_sony_msm8974" path="kernel/sony/msm8974" />

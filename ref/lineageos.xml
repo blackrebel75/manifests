@@ -31,7 +31,6 @@
   <project path="external/curl" name="LineageOS/android_external_curl" />
   <project path="external/dhcpcd" name="LineageOS/android_external_dhcpcd" groups="pdk-cw-fs" />
   <project path="external/dropbear" name="LineageOS/android_external_dropbear" />
-  <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" />
   <project path="external/ebtables" name="LineageOS/android_external_ebtables" />
   <project path="external/exfat" name="LineageOS/android_external_exfat" />
   <project path="external/expat" name="LineageOS/android_external_expat" groups="pdk" />
@@ -217,6 +216,5 @@
   <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
-  <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" />
   <project path="vendor/cmsdk" name="LineageOS/cm_platform_sdk" />
 </manifest>
